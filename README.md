@@ -1,1 +1,1 @@
-This is SQL project in HR Analytics
+Analyzing employee attrition and performance data to identify key factors influencing turnover and satisfaction using SQL.
